@@ -18,7 +18,7 @@ export const projects = [
     techStack: ["React", "Spring Boot", "MySQL"],
     github: "https://github.com/Creator-Veera/",
     demo: "",
-    image: "/assets/project2.png",
+    image: "#",
   },
   {
     id: 3,
