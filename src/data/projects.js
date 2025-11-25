@@ -14,11 +14,11 @@ export const projects = [
     id: 2,
     title: "Full Stack Task Management App",
     description:
-      "A task management web app with authentication, CRUD operations, and responsive UI. Built using React, Spring Boot, and MySQL.",
-    techStack: ["React", "Spring Boot", "MySQL"],
+      "LivingList — a clean and easy task manager to organize your day.",
+    techStack: ["React", "Spring Boot", "PostgreSQl, Render, Vercel"],
     github: "https://github.com/Creator-Veera/",
-    demo: "",
-    image: "#",
+    demo: "https://livinglist.vercel.app/",
+    image: "https://ik.imagekit.io/faypstoj9/ImageKIT/livinglist.png",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ export const projects = [
       "A responsive and animated portfolio built with React, Tailwind CSS, and Framer Motion to showcase skills and projects.",
     techStack: ["React", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/Creator-Veera/",
-    demo: "",
+    demo: "https://creator-veera.github.io/portfolio/",
     image: "https://ik.imagekit.io/faypstoj9/ImageKIT/Portfolio.png?updatedAt=1762249202070",
   },
 ];
